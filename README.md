@@ -32,7 +32,7 @@ Once the extension is installed, simply use it in your code by  :
 
 ```php
 <?php
-echo newerton\fancybox\FancyBox::widget([
+echo newerton\fancybox3\FancyBox::widget([
     'target' => 'a[rel=fancybox]',
     'helpers' => true,
     'mouse' => true,
